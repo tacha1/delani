@@ -10,11 +10,17 @@ body {
 }
 
 #title {
-    margin-top: -30%;
+    margin-top:0%;
 	font-weight: bold;
 	font-size: 2rem;
     color:white;
 }
 h6{
     color: whitesmoke;
+}
+.logo{
+    margin-top: -40%;
+}
+.logoo{
+    margin-top: 15%;
 }
