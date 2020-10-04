@@ -38,3 +38,15 @@ h6{
 .parag{
     text-align: center;
 }
+.container{
+    margin-top:15%;
+}
+.whatwedo{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 5%;
+}
+.design{
+    color: black;
+    text-decoration:none;
+}
