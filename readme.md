@@ -33,7 +33,7 @@ Users receive message in popup window, thanking him for sending a message.
 
 ## Technologies Used
 
-It used HTML, CSS, Javascript, Bootstrap and jQuery.
+It is designed using HTML, CSS, Javascript, Bootstrap and jQuery.
 
 ## Support and contact details
 
