@@ -38,7 +38,7 @@ It used HTML, CSS, Javascript, Bootstrap and jQuery.
 ## Support and contact details
 
 For any issues or questions, ideas or concern, please contact me on 0788851018 or e-mail me on :uwarosine10@gmail.com
-Check me out: 
+Check me out: https://tacha1.github.io/delani/
 
 ### License
 
