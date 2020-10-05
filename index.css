@@ -41,12 +41,43 @@ h6{
 .container{
     margin-top:15%;
 }
-.whatwedo{
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    margin-top: 5%;
+#service{
+    margin-bottom: 10%;
 }
 .design{
     color: black;
     text-decoration:none;
+}
+form{
+    margin-top: -10%;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    padding: 0px 10% 0px 10%;
+    }
+#inputName{
+        background-color: transparent;
+        height: 30px;
+        border-radius: 0px;
+    }
+#inputEmail{
+        background-color: transparent;
+        height: 30px; 
+        border-radius: 0px;
+    }
+    
+    #inputMessage{
+        background-color: transparent;
+        border-radius: 0px;
+    }
+    input[type="text"]::-webkit-input-placeholder {
+        color:white;
+    }
+    input[type="email"]::-webkit-input-placeholder {
+        color:white;
+    }
+    textarea::-webkit-input-placeholder {
+        color: white;
+    }
 }
