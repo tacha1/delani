@@ -1,7 +1,6 @@
 $(document).ready(function(){
     $("#design").click(function(){
         $("#design-text").toggle();
-        $("#design").toggle();
     });
     $("#design-text").click(function(){
         $("#design").toggle();
@@ -10,7 +9,6 @@ $(document).ready(function(){
 
     $("#development").click(function(){
         $("#development-text").toggle();
-        $("#development").toggle();
     });
     $("#development-text").click(function(){
         $("#development").toggle();
@@ -19,7 +17,6 @@ $(document).ready(function(){
 
     $("#product").click(function(){
         $("#product-text").toggle();
-        $("#product").toggle();
     });
     $("#product-text").click(function(){
         $("#product").toggle();
@@ -108,7 +105,7 @@ $(document).ready(function(){
             alert("Please, fill the required fields!");
         }
         else{
-            alert(name+ ", we have received your message. Thank you for reaching out to us!");
+            alert("Dear",""+name+ ",we have received your message. Thank you for reaching out to us!");
         }
         event.preventDefault();
     });
